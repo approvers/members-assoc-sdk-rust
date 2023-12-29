@@ -1,0 +1,10 @@
+[package]
+name = "members-assoc-sdk-rust"
+version = "0.1.0"
+edition = "2021"
+description = "Rust SDK for approvers/member-assoc"
+repository = "https://github.com/approvers/members-assoc-sdk-rust"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
